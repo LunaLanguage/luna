@@ -1,0 +1,9 @@
+# Custom language definition for Luna
+*.lna linguist-language=Luna
+
+# Linguist overrides
+# This ensures that the Luna language is displayed with the color purple
+Luna linguist-vendored=false
+Luna linguist-detectable=true
+Luna linguist-language=Luna
+Luna linguist-color=#800080
