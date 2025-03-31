@@ -6,7 +6,7 @@
 
 ## Description
 
-Luna is a high-level programming language designed to be simple, efficient, and versatile. It is primarily written in Python with a small portion in Batchfile. Luna aims to provide developers with [...]
+Luna is a high-level programming language designed to be simple, efficient, and versatile. It is primarily written in Python with a small portion in Batchfile. Luna aims to provide developers with Programming Language Development
 
 ## Announcements
 
