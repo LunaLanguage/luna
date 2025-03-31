@@ -1,5 +1,7 @@
 # Luna Programming Language
 
+![Luna Logo](icon.png)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
