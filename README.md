@@ -1,4 +1,4 @@
-# ![Luna Logo](icon.png) Luna Programming Language
+# Luna Programming Language
 
 ![Luna Logo](icon.png)
 
@@ -6,7 +6,11 @@
 
 ## Description
 
-Luna is a high-level programming language designed to be simple, efficient, and versatile. It is primarily written in Python with a small portion in Batchfile. Luna aims to provide developers with a robust and easy-to-use language for building a wide range of applications.
+Luna is a high-level programming language designed to be simple, efficient, and versatile. It is primarily written in Python with a small portion in Batchfile. Luna aims to provide developers with [...]
+
+## Announcements
+
+**Luna 1.1 for Linux is coming soon! The developer is currently working on creating the AppImage, but it might take some time due to other commitments. Stay tuned for updates!**
 
 ## Table of Contents
 
