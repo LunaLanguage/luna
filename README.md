@@ -25,10 +25,19 @@ Luna is a high-level programming language designed to be simple, efficient, and 
 
 ## Installation
 
-To install Luna, you need to have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
+To install Luna, you do not need to have Python installed on your system, as Luna has been compiled using PyInstaller. Follow the steps below for installation:
 
-Clone the repository:
+1. **Download the Installer**: Download the `Luna Command And File Association` and `luna.msi` packages from the [releases page](https://github.com/LunaLanguage/luna/releases).
+
+2. **Run the Installer**: 
+    - First, run the `Luna Command And File Association` installer to set up the necessary command and file associations for Luna.
+    - Next, run the `luna.msi` installer to install the Luna package.
+
+After the installation is complete, you can start using Luna from the command line.
+
+## Usage
+
+To start using Luna, open a command prompt and run the `luna` command:
 
 ```bash
-git clone https://github.com/LunaLanguage/luna.git
-cd luna
+luna
