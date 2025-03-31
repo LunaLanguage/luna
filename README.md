@@ -1,4 +1,4 @@
-# Luna Programming Language
+# ![Luna Logo](icon.png) Luna Programming Language
 
 ![Luna Logo](icon.png)
 
