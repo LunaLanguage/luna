@@ -2,7 +2,7 @@
 
 ![Luna Logo](icon.png)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 ## Description
 
@@ -10,7 +10,7 @@ Luna is a high-level programming language designed to be simple, efficient, and 
 
 ## Announcements
 
-**Luna 1.1 for Linux is coming soon! The developer is currently working on creating the AppImage, but it might take some time due to other commitments. Stay tuned for updates!** 
+**Luna 1.1 and 1.2 for Linux is coming soon! The developer is currently working on creating the AppImage, but it might take some time due to other commitments. Stay tuned for updates!** 
 
 **You can only download the AppImage in Luna 1.0, meaning Luna 1.0 has the Linux AppImage ready.**
 
